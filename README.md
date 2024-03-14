@@ -20,7 +20,7 @@ This Project is done by using React Framework. It is fully functional, responsiv
 
 To get this project up and running on your local machine, follow these steps:
 1. Clone the repository to your local machine using:
-   ### `git clone https://github.com/Saga-Akhilesh/ENTNT---ERP.git`
+   ### `git clone https://github.com/Ramajyothi55/ERP-main`
 
 2. Navigate into the project directory:
    ### `cd project`
